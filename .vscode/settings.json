@@ -1,0 +1,7 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=./build/Debug"
+    ],
+    "cmake.configureOnOpen": false,
+    "cmake.configureOnEdit": false
+}
